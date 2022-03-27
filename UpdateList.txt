@@ -52,6 +52,7 @@ luci-theme-atmaterial_new
 luci-theme-infinityfreedom
 luci-theme-neobird
 luci-theme-opentomato
+luci-theme-opentomcat
 luci-theme-rosy
 adguardhome
 cdnspeedtest
