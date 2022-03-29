@@ -18,6 +18,7 @@ luci-app-ikoolproxy
 luci-app-ipsec-vpnserver-manyusers
 luci-app-iptvhelper
 luci-app-k3screenctrl
+luci-app-koolddns
 luci-app-linkease
 luci-app-mentohust
 luci-app-netdata
@@ -38,7 +39,6 @@ luci-app-switch-lan-play
 luci-app-syncthing
 luci-app-tencentddns
 luci-app-timecontrol
-luci-app-ttnode
 luci-app-udp2raw
 luci-app-unblockmusic
 luci-app-unblockneteasemusic

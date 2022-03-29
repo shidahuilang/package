@@ -1,9 +1,9 @@
 #!/bin/sh
 
 uci -q batch <<-EOF >/dev/null
-	delete ucitrack.@ttnode[-1]
-	add ucitrack ttnode
-	set ucitrack.@ttnode[-1].init=ttnode
+	delete ucitrack.@koolddns[-1]
+	add ucitrack koolddns
+	set ucitrack.@koolddns[-1].init=koolddns
 	commit ucitrack
 EOF
 
